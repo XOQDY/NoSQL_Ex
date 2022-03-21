@@ -1,12 +1,11 @@
 ## Question 1
-I recommend using MongoDB because I think we work on semi-structured data so MongoDB should be fulfilled data requirement.
+I recommend using relational model because the data have specific size of 1 team and data structure won’t change frequently
 
 ## Question 2
-I recommend using MongoDB because I think we work on data that unstructured or semi-structured data that doesn’t fir the relational model and require the flexibility of a dynamic schema or want more choice over the data model.
+I recommend using MongoDB because I think we work on data that unstructured or semi-structured data that doesn’t fit the relational model and require the flexibility of a dynamic schema or want more choice over the data model.
 
 ## Question 3
-I recommend using relational model because I think for this data we require a high degree of 
-data integrity, and data is highly structured.
+I recommend using MongoDB because for what question give, they didn’t specify structure, so we require the flexibility of a dynamic schema or want more choice over the data model
 
 ## Question 4 (Gaming)
 ```
